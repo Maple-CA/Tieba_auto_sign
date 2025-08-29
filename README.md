@@ -3,9 +3,11 @@
 ### 1.1 介绍
 这是一个基于**Python DrissionPage**编写的，运行在**Github Action**上的贴吧每日签到运行脚本，默认每天在北京时间**凌晨2:30**(可根据需要进行修改)定时运行。
 
-**Github项目地址**：[Tieba_auto_sign](https://github.com/1dyer/Tieba_auto_sign)
-**个人博客地址**：[贴吧每日自动签到脚本](https://blog.ldyer.top/2025/08/29/%E8%B4%B4%E5%90%A7%E6%AF%8F%E5%A4%A9%E7%AD%BE%E5%88%B0%E8%84%9A%E6%9C%AC/)
+🐈‍⬛**Github项目地址**：[Tieba_auto_sign](https://github.com/1dyer/Tieba_auto_sign)
 
+🐼**个人博客地址**：[贴吧每日自动签到脚本](https://blog.ldyer.top/2025/08/29/%E8%B4%B4%E5%90%A7%E6%AF%8F%E5%A4%A9%E7%AD%BE%E5%88%B0%E8%84%9A%E6%9C%AC/)
+
+🐵**CSDN地址**：[贴吧每日自动签到脚本（无需部署服务器，无需成本）](https://blog.csdn.net/onedyer/article/details/150990614?sharetype=blogdetail&sharerId=150990614&sharerefer=PC&sharesource=onedyer&spm=1011.2480.3001.8118)
 
 ### 1.2 运行样例
 ![](./img/image-15.png)
