@@ -114,8 +114,8 @@ if __name__ == "__main__":
             page.back()
             page._wait_loaded(10)
 
-    if "SERVER_KEY" in os.environ:
-        api = f'https://sc.ftqq.com/{os.environ["SERVER_KEY"]}.send'
+    if "SendKey" in os.environ:
+        api = f'https://sc.ftqq.com/{os.environ["SendKey"]}.send'
         title = u"贴吧签到信息"
         data = {
         "text":title,
