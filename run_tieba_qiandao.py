@@ -127,6 +127,7 @@ if __name__ == "__main__":
                 print("Server酱通知发送成功")
             else:
                 print(f"通知失败，状态码：{req.status_code}")
+                print(api)
         except Exception as e:
             print(f"通知发送异常：{e}")
     else:
