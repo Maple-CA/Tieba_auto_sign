@@ -122,7 +122,7 @@ if __name__ == "__main__":
         "desp":notice
         }
         try:
-            req = requests.post(api, data=data, timeout=10)
+            req = requests.post(api, data=data, timeout=60)
             if req.status_code == 200:
                 print("Server酱通知发送成功")
             else:
