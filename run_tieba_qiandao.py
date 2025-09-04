@@ -94,8 +94,9 @@ if __name__ == "__main__":
                 if sign_ele:
                     sign_ele.click()
                     time.sleep(1)  # 等待签到动作完成
+                    sign_ele.click()
                     page.refresh()
-
+                    sign_ele.click()
 
                     page._wait_loaded(15)
 
